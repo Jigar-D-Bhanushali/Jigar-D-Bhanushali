@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jigar-D-Bhanushali.
 
-- 👀 I’m interested in C#.Net & related technologies, in Windows development with WPF, WCF & .Net COre Web API.
+- 👀 I’m interested in C#.Net & related technologies, in Windows development with WPF, WCF & .Net Core Web API.
 
 - 🌱 I’m currently learning Azure & Devops technologies.
 
